@@ -1,2 +1,2 @@
 # Adventure
-A silly little game I created instead of doing homework in college. Pre-alpha at best.
+A text adventure game I created when I got bored with college homework assignments. Kind of fault tolerant, but definitely in alpha.
